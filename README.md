@@ -6,5 +6,8 @@ It's suggested to create a fork of this repo so that you can add your own progra
 to the projects. To do this, first create a GitHub repo of your own, then run: 
     git clone https://github.com/dvanaria/tiny_python_projects
 
+If git is not installed on your local machine, use:
+    sudo apt install git
+    
 
 
